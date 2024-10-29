@@ -1,8 +1,8 @@
-<h2 align="left">Ola!! Seja Bem Vindo (a)</h2>
+<h2 align="left">Ola!! Seja Bem Vindo(a)</h2>
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">Eu me chamo Fabiolla sou Técnica em Informática para Internet e Graduanda em Análise e Desenvolvimento de Sistemas,programo á 3 anos e atualmente busco aprimorar minhas habilidades. Aqui no GitHub, você encontrará meus projetos mais recentes e poderá acompanhar minha evolução como desenvolvedora. </p>
 
 ###
 
