@@ -5,14 +5,11 @@
 <p align="left">Eu me chamo Fabiolla sou Técnica em Informática para Internet e Graduanda em Análise e Desenvolvimento de Sistemas, programo há 3 anos e atualmente busco aprimorar minhas habilidades. Aqui no GitHub, você encontrará meus projetos mais recentes e poderá acompanhar minha evolução como desenvolvedora.</p>
 
 ###
+
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=fabiolla.nasciimento@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="gmail logo"  />
-  <a href="https://www.linkedin.com/in/fab%C3%ADolla-nascimento/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.behance.net/fabiollanascimento" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="behance logo"  />
-  </a>
+  <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="behance logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="linkedin logo"  />
 </div>
 
 
